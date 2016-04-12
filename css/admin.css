@@ -1,0 +1,12 @@
+.followus-module-remove{text-decoration:none; }
+#followus-modules{overflow:hidden; }
+#followus-modules-add{float:left; }
+.followus-module{float:left; padding:5px; margin:2px; clear:both; background:#eee; }
+.followus-module input[type=text]{width:210px; }
+.SmartAppBanner-warning {color: red; padding-left:5px ;}
+.SmartAppBanner-option-group{padding:5px; }
+.SmartAppBanner-option-group a{text-decoration:none; }
+.SmartAppBanner-group{margin-left:5px; overflow:hidden; }
+.SmartAppBanner-group.disabled{display:none; }
+.SmartAppBanner-preview{padding:5px; background:#ececec; float:left; }
+.SmartAppBanner-hide {display: none; }
