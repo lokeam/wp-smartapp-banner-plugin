@@ -1,0 +1,1 @@
+# wp-smartapp-banner-plugin
